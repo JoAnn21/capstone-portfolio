@@ -1,7 +1,7 @@
 # capstone-portfolio
 Respository for Web Design for Everybody capstone project, University of Michigan
 
-Please view my page at https://joann21.github.io/capstone-portfolio/ or download the video to view. Thank you.
+Please view my page at https://joann21.github.io/capstone-portfolio/ or download the video to view. Lightbox is working correctly in Firefox, but not Chrome or Safari. Thank you.
 
 ![JoAnnManzellaCapstoneWriteup_Page_1](https://user-images.githubusercontent.com/23512791/126884276-178a4a10-ccec-4e54-a85e-a7be0ff386e5.png)
 ![JoAnnManzellaCapstoneWriteup_Page_2](https://user-images.githubusercontent.com/23512791/126884278-ec09a8b9-b980-4dfb-9c8e-fe134a2470b2.png)
